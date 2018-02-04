@@ -1,7 +1,7 @@
 {
-  "name": "metalsmith-typescript",
+  "name": "metalsmith-typescript-renaud",
   "version": "1.0.0",
-  "description": "a TypeScript plugin for metalsmith",
+  "description": "a TypeScript plugin for metalsmith with support for custom compiler options",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha --recursive ./test/specs"
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Shinsuke-Abe/metalsmith-typescript"
+    "url": "https://github.com/RenaudParis/metalsmith-typescript"
   },
   "dependencies": {
     "typescript-compiler": "^1.4.1-2"
