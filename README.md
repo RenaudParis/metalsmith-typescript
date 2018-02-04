@@ -38,6 +38,10 @@ and this plugin add the extension string to filter string.
 
 This is a module type string for compile target files.
 
+#### `compilerOptions`
+
+Additional, custom compiler options.
+
 ## Tests
 
 ```
