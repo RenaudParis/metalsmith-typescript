@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-typescript-renaud",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a TypeScript plugin for metalsmith with support for custom compiler options and improved handling of the files array",
   "main": "lib/index.js",
   "scripts": {
